@@ -1,0 +1,9 @@
+[https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+SOURCES
+Hotel Booking Demand Datasets: Nuno Antonio, Ana Almeida, Luis Nunes, Data in Brief, 2019
+
+COLLECTION METHODOLOGY
+Data was downloaded from: https://www.sciencedirect.com/science/article/pii/S2352340918315191 and cleaned by 
+Thomas Mock and Antoine Bichat as part of #TidyTuesday: 
+https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md
